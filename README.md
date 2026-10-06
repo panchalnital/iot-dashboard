@@ -1,10 +1,10 @@
-## latinem Assignment
+# latinem Assignment
 ## Technology Stack:
-# Frontend: React.js
-# Backend: PHP
+## Frontend: React.js
+## Backend: PHP
 
 
-1. Open `http://127.0.0.1/iot-dashboard//index.html` in your browser — it links to all 6 tasks.
+1. Open `http://127.0.0.1/iot-dashboard//index.html` in your browser — it links to tasks.
 
 ## Structure
 ```
@@ -17,16 +17,16 @@ iot-dashboard/
 
 ```
 
-## Notes on each task
+#  Notes on each task
 
-# Main Screen dashboard chart1
+## Main Screen dashboard chart1
 
 ![Alt text](projectsimage/chart1.png?raw=true "Main screen")
 
 
 projectsimage/chart1.png
 
-# Main Screen dashboard chart2
+## Main Screen dashboard chart2
 ![Alt text](projectsimage/chart2.png?raw=true "Main screen")
 
 
