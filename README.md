@@ -27,7 +27,7 @@ iot-dashboard/
 projectsimage/chart1.png
 
 ## Main Screen dashboard chart2
-![Alt text](projectsimage/chart2.png?raw=true "Main screen")
+![Alt text](projectsimage/chart2.PNG?raw=true "Main screen")
 
 
 
