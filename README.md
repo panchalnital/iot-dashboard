@@ -4,7 +4,7 @@
 ## Backend: PHP
 
 
-1. Open `http://127.0.0.1/iot-dashboard//index.html` in your browser — it links to tasks.
+1. Open `http://127.0.0.1/iot-dashboard/index.html` in your browser — it links to tasks.
 
 ## Structure
 ```
@@ -24,7 +24,6 @@ iot-dashboard/
 ![Alt text](projectsimage/chart1.png?raw=true "Main screen")
 
 
-projectsimage/chart1.png
 
 ## Main Screen dashboard chart2
 ![Alt text](projectsimage/chart2.PNG?raw=true "Main screen")
