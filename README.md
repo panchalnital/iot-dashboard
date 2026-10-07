@@ -11,7 +11,7 @@
 iot-dashboard/
 ├── index.html                     # Dashboard chart 1 and chart 2
 ├── api/                           # Api 
-│   ├── dashboard.php              # passing data in json form 
+│   ├── dashboard.php              # passing data in json form used
 ├── js/                            # js files
 ├── css/                           # css files
 
